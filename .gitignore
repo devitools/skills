@@ -1,0 +1,63 @@
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+*.iml
+
+# Build artifacts
+dist/
+build/
+out/
+target/
+*.pyc
+*.pyo
+__pycache__/
+*.class
+*.o
+*.so
+
+# Dependencies
+node_modules/
+vendor/
+.bundle/
+venv/
+env/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache directories
+.cache/
+.npm/
+.yarn/
+
+# OS files
+Thumbs.db
+desktop.ini
