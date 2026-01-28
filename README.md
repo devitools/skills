@@ -1,10 +1,10 @@
-# Claude Code Skills
+# Coding Agent Skills
 
-A collection of skills for [Claude Code](https://claude.ai/claude-code) that extend AI capabilities for software development workflows.
+A collection of skills for [Coding Agents](https://agentskills.io) that extend AI capabilities for software development workflows.
 
 ## What are Skills?
 
-Skills are auto-invoked prompts that guide Claude to use specialized tools and follow best practices for specific tasks. Each skill is a self-contained module with documentation, setup instructions, and workflows.
+Skills are auto-invoked prompts that guide the coding agents to use specialized tools and follow best practices for specific tasks. Each skill is a self-contained module with documentation, setup instructions, and workflows.
 
 ## Available Skills
 
